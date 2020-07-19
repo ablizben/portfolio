@@ -1,0 +1,48 @@
+body {
+    background-image: url("./background2.jpg");
+    background-repeat: no-repeat;
+    background-size: 1440px 850px;
+    text-align: center;
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -100px;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    
+  }
+
+
+.hello, .hello2 {
+    font-size: 40px;
+    text-align: center;
+    /* position: fixed; */
+    left: 20%;
+    /* margin-left: -100px;  */
+    display: flex;
+    position: relative;
+    left: 100px;
+    top: 40px;
+
+
+}
+
+.hello2 {
+    text-align:center;
+}
+
+
+
+.work, .contact {
+    padding: 20px;
+    position: relative;
+    left: 100px;
+    top: 30px;
+
+}
+
+
+.photocap {
+    size: 200px 200px;
+}
